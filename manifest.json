@@ -1,0 +1,9 @@
+{
+  "name": "SAé 2.04 - Chrisnaël Berdier",
+  "short_name": "SAé 2.04",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "start_url": "/sae204-presence-en-ligne/",
+  "background_color": "#080808",
+  "theme_color": "#F97316"
+}
